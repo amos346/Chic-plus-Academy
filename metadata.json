@@ -1,0 +1,6 @@
+{
+  "name": "CHIC-PLUS UNISEX FASHION SCHOOL",
+  "description": "An independent fashion training academy and professional educational brand offering world-class unisex fashion design, pattern making, and haute couture training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
